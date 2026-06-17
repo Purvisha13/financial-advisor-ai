@@ -20,7 +20,6 @@ This project is an AI-powered financial advisor and expense manager. It helps us
 
 ## Track B Requirements Covered
 
-| Track B Requirement | Implementation |
 |---|---|
 | 3-4 integrated tools | CSV upload, Splitwise-style upload, payment text parser, PDF/TXT content upload, analytics engine |
 | Advanced financial analysis | Health score, anomaly detection, category trend, next-month forecast |
@@ -118,17 +117,6 @@ This app gives educational financial guidance only. It does not provide certifie
 - Add investment portfolio simulator
 - Add feedback system to evaluate advice usefulness
 
-## Demo Checklist
-
-For your final demo, show:
-
-1. Dashboard overview
-2. Manual expense entry
-3. CSV upload
-4. Payment text extraction
-5. Category charts
-6. Budget and savings goal tracking
-7. AI financial advice
 8. Guru comparison
 9. Report download
 10. Project requirements tab
