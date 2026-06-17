@@ -17,8 +17,7 @@ This project is an AI-powered financial advisor and expense manager. It helps us
 - Forecast next-month spending
 - Compare financial advice styles from different financial philosophies
 - Export expense reports and financial summaries
-
-
+'''text
 | 3-4 integrated tools | CSV upload, Splitwise-style upload, payment text parser, PDF/TXT content upload, analytics engine |
 | Advanced financial analysis | Health score, anomaly detection, category trend, next-month forecast |
 | Multi-guru financial analysis | Warren Buffett, Robert Kiyosaki, Ramit Sethi, Indian Personal Finance comparison |
@@ -27,6 +26,7 @@ This project is an AI-powered financial advisor and expense manager. It helps us
 | Advanced dashboard | Streamlit tabs, cards, charts, reports, aesthetic UI |
 | Security basics | Privacy note, local mock data, safe demo-first workflow |
 | Export functionality | CSV report and TXT financial summary |
+'''
 
 ## Tech Stack
 
