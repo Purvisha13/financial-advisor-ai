@@ -18,9 +18,8 @@ This project is an AI-powered financial advisor and expense manager. It helps us
 - Compare financial advice styles from different financial philosophies
 - Export expense reports and financial summaries
 
-## Track B Requirements Covered
 
-| Track B Requirement | Implementation |
+| Requirement | Implementation |
 |---|---|
 | 3-4 integrated tools | CSV upload, Splitwise-style upload, payment text parser, PDF/TXT content upload, analytics engine |
 | Advanced financial analysis | Health score, anomaly detection, category trend, next-month forecast |
